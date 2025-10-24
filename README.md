@@ -1,0 +1,2 @@
+# FedDD-Communication-Efficient-Federated-Learning-via-Differential-Parameter-Dropout
+This repository provides an independent, research-oriented implementation of a communication-efficient Federated Learning (FL) method inspired by the “FedDD” approach (differential parameter dropout with importance-based sparsification). The goal is to make the core ideas reproducible for coursework, benchmarking, and extensions
