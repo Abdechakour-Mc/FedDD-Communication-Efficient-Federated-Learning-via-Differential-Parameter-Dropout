@@ -213,4 +213,6 @@ If this code assists your work, please cite the original FedDD paper as appropri
 
 ## License
 
-Specify your chosen license here (e.g., MIT).
+MIT License
+
+Copyright (c) 2025
