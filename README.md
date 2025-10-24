@@ -197,11 +197,15 @@ Per round, the script prints:
 If this code assists your work, please cite the original FedDD paper as appropriate. This repository is an independent re-implementation for educational and research use.
 
 ```
-@article{feddd2023,
-  title={FedDD: Toward Communication-Efficient Federated Learning With Differential Parameter Dropout},
-  author={Liu, et al.},
+@article{feng2023feddd,
+  title={FedDD: Toward communication-efficient federated learning with differential parameter dropout},
+  author={Feng, Zhiying and Chen, Xu and Wu, Qiong and Wu, Wen and Zhang, Xiaoxi and Huang, Qianyi},
   journal={IEEE Transactions on Mobile Computing},
-  year={2023}
+  volume={23},
+  number={5},
+  pages={5366--5384},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
